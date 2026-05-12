@@ -1,0 +1,37 @@
+name: dighum101
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - pandas
+  - numpy
+  - openpyxl
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - wordcloud
+  - spacy
+  - nltk
+  - gensim
+  - scikit-learn
+  - regex
+  - folium
+  - geopandas
+  - shapely
+  - geopy
+  - contextily
+  - beautifulsoup4
+  - lxml
+  - html5lib
+  - requests
+  - python-dotenv
+  - transformers
+  - datasets
+  - tokenizers
+  - huggingface_hub
+  - tqdm
