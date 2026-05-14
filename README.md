@@ -74,7 +74,9 @@ Please follow the steps below to install the required software:
     - From the Terminal, copy and paste this line of text: 
 
 ```bash
+
 git clone https://github.com/dlab-berkeley/DIGHUM101-2026.git
+
 ```
 
     - Then press enter. This should download a folder called DIGHUM101-2026 onto your computer. In VS Code, open that folder before continuing.
@@ -83,14 +85,26 @@ git clone https://github.com/dlab-berkeley/DIGHUM101-2026.git
     - If you can’t run 1_1_setup.ipynb, go back to the Terminal. Type this line of text:
 
 ```bash
+
+cd DIGHUM101-2026
+
+```
+
+    - Then hit enter and then type this line of text:
+    
+```bash
+
 conda env create -f environment.yml
+
 ```
  
     - Then hit enter. This will tell Anaconda to build your Python environment based on the directions in the environment.yml file (part of the course download).
     - Once downloaded, type 
 
 ```bash
+
 conda activate dighum101
+
 ```
 
     in the Terminal. Then test if you’re all set up with 1_1_setup.ipynb. 
@@ -98,8 +112,11 @@ conda activate dighum101
 A final note on this setup process: if you’re following along this way, you can easily download the latest course materials by simply typing: 
 
 ```bash
+
 git pull
+
 ```
+
 into the Terminal. This will download any new stuff as we move through the course.
 
 ## Assignments and Grading
