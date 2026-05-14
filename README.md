@@ -194,3 +194,27 @@ The Final Video Reflection is worth 10% of your overall grade.
 | 4 | None |
 | 5 | Individual Project: Demonstration of Code Due Sunday, June 28 at 11:59pm |
 | 6 | Individual Project: Recorded Showcase Due Monday, June 29 at 12:00pm<br>Individual Project: Showcase Feedback Due Tuesday, June 30 at 11:59pm<br>Group Project: Presentation Due Wednesday, July 1 at 1:00pm<br>Group Project: Short Paper Due Friday, July 3 at 11:59pm<br>Final Video Reflection Due Friday, July 3 at 11:59pm |
+
+## Past Courses and Related Links
+
+Parts of these materials were created by Evan Muzzall, 2018-2021, Brooks Jessup, 2021, Tom van Nuenen, 2022, Prashant Sharma 2023-2024, Merve Tekgurler 2025.
+
+- https://github.com/dlab-berkeley/DIGHUM101-2024
+- https://github.com/dlab-berkeley/DIGHUM101-2023
+- https://github.com/dlab-berkeley/DIGHUM101-2022
+- https://github.com/dlab-berkeley/DIGHUM101-2021
+- https://github.com/dlab-berkeley/DIGHUM101-2020
+- https://github.com/dlab-berkeley/DIGHUM101-2019
+- https://github.com/dlab-berkeley/DIGHUM101-2018
+
+Course materials have also made use of the following repositories and resources:
+
+- https://github.com/dlab-berkeley/Python-Fundamentals
+- https://github.com/dlab-berkeley/Python-Data-Wrangling/
+- https://github.com/dlab-berkeley/Python-Web-APIs
+- https://github.com/cs124/pa2-naive-bayes/blob/main/pa2.ipynb
+- https://github.com/cs124/pa2-naive-bayes/blob/main/numpy_tutorial.ipynb
+- https://web.stanford.edu/class/cs124/lec/Lab1_UnixText_2025_upload.pdf
+- https://github.com/cs124/labs/blob/main/Lab3_InformationRetrieval.md 
+- https://github.com/dlab-berkeley/Python-Intermediate-Legacy
+- https://github.com/dlab-berkeley/Python-Data-Visualization
