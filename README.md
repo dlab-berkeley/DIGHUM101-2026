@@ -77,7 +77,7 @@ Please follow the steps below to install the required software:
 git clone https://github.com/dlab-berkeley/DIGHUM101-2026.git
 ```
 
-- Then press enter. This should download a folder called DIGHUM101-2026 onto your computer. In VS Code, open that folder before continuing.
+- Then press enter. This should download a folder called DIGHUM101-2026 onto your computer. __In VS Code, open that folder before continuing.__
     - Note for Mac users: the first time you use Git, your computer may ask you to install “Command Line Developer Tools.” Click “install” and wait for the installation to finish. This gives your computer access to the git command needed to clone the course repository.
 - At this point, some of you may be all set up. Hooray! You can test if you’re set up by opening Week 1, opening file 1_1_setup.ipynb and running its code.
 - If you can’t run 1_1_setup.ipynb, go back to the Terminal. Type this line of text:
