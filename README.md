@@ -141,13 +141,13 @@ The individual coding project is an opportunity to become more comfortable with 
 
 It is completely fine if parts of your initial plans for the individual coding project prove more difficult or complicated than you anticipated. While you will need to submit executable code as part of the project, it is also important to _document and describe what didn’t work._ What proved too time-consuming? What parts of coding in Python were challenging? These details should be included in your submissions alongside your final code versions.
 
-The Individual Coding Project is worth 40% of your overall grade. It is split into three parts: the Topic Statement, the Demonstration of Code, and the Project Showcase. For more info, see the Individual Project Directions.
+The Individual Coding Project is worth 40% of your overall grade. It is split into three parts: the Topic Statement, the Demonstration of Code, and the Project Showcase. For more info, see the [Individual Project Directions.](https://github.com/dlab-berkeley/DIGHUM101-2026/blob/main/assignments/individual_project_directions.md)
 
 ### Group Project
 
 The group project allows you to survey a Python-dependent method in the digital humanities and reflect on its broader contributions to the field. The group project also invites you to think about the collaborative nature of the digital humanities–a field where researchers often work in teams or labs and where the work depends on layers of interdependent technologies and resources. There is no coding required for the group project. Instead, you will be studying related papers or projects that use Python to enact the method of your choosing.
 
-The Group Project is worth 40% of your overall grade. It is split into three parts: the Topic Statement, the Short Paper, and the Presentation. For more info, see the Group Project Directions.
+The Group Project is worth 40% of your overall grade. It is split into three parts: the Topic Statement, the Short Paper, and the Presentation. For more info, see the [Group Project Directions.](https://github.com/dlab-berkeley/DIGHUM101-2026/blob/main/assignments/group_project_directions.md)
 
 ### Final Video Reflection
 
