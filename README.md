@@ -49,72 +49,62 @@ Finally, we will be using __GitHub__, a platform for sharing and collaborating o
 
 Please follow the steps below to install the required software:
 
-1) Anaconda – a free software platform that bundles together a bunch of Python software and tools. It’s a widely used by programmers, students, and researchers.
-    - Go to the Anaconda Installer: [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
-    - Navigate to your device type download (Mac or Windows)
-    - Download Miniconda 
-        - You could download Anaconda Distribution instead, but it shouldn’t be necessary for this class. For more info about the differences, see here: [https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda](https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda)
-        - If you’re getting an error message that reads something like “you can’t download to this device”, try going to [https://repo.anaconda.com/miniconda/](https://repo.anaconda.com/miniconda/). Then choose the file that matches your type of device and also ends with “.pkg”.
-    - Click through the installation setup
+### 1) Anaconda
+- Go to the Anaconda Installer: [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
+- Navigate to your device type download (Mac or Windows)
+- Download Miniconda 
+    - You could download Anaconda Distribution instead, but it shouldn’t be necessary for this class. For more info about the differences, see here: [https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda](https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda)
+    - If you’re getting an error message that reads something like “you can’t download to this device”, try going to [https://repo.anaconda.com/miniconda/](https://repo.anaconda.com/miniconda/). Then choose the file that matches your type of device and also ends with “.pkg”.
+- Click through the installation setup
 
-2) GitHub – GitHub is an online platform for storing, sharing, and collaborating on digital projects. It uses a version control system called Git that makes it easy to push, pull, clone, and collaborate on digital projects.
-    - Go to [https://github.com/](https://github.com/)
-    - Click “sign up” in the top right corner
-    - Create your account
+### 2) GitHub 
+- Go to [https://github.com/](https://github.com/)
+- Click “sign up” in the top right corner
+- Create your account
 
-3) VS Code – Visual Studio (VS) Code is a free code editor developed by Microsoft. It’s like Microsoft Word except it allows you to write and execute code.
-    - Visit VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-    - Click “download” for your device
-    - Follow the download directions
-    - Open VS Code and select “Continue with GitHub”
-    - Sign into VS Code with your GitHub account
+### 3) VS Code
+- Visit VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- Click “download” for your device
+- Follow the download directions
+- Open VS Code and select “Continue with GitHub”
+- Sign into VS Code with your GitHub account
 
-4) Git and the Terminal – To make downloading course materials easier, we’ll use Git. This is GitHub’s version control system.
-    - In VS Code, look to the menu bar and select “Terminal” then “New Terminal”
-    - From the Terminal, copy and paste this line of text: 
+### 4) Git and the Terminal
+- In VS Code, look to the menu bar and select “Terminal” then “New Terminal”
+- From the Terminal, copy and paste this line of text: 
 
 ```bash
-
 git clone https://github.com/dlab-berkeley/DIGHUM101-2026.git
-
 ```
 
-    - Then press enter. This should download a folder called DIGHUM101-2026 onto your computer. In VS Code, open that folder before continuing.
-        - Note for Mac users: the first time you use Git, your computer may ask you to install “Command Line Developer Tools.” Click “install” and wait for the installation to finish. This gives your computer access to the git command needed to clone the course repository.
-    - At this point, some of you may be all set up. Hooray! You can test if you’re set up by opening Week 1, opening file 1_1_setup.ipynb and running its code.
-    - If you can’t run 1_1_setup.ipynb, go back to the Terminal. Type this line of text:
+- Then press enter. This should download a folder called DIGHUM101-2026 onto your computer. In VS Code, open that folder before continuing.
+    - Note for Mac users: the first time you use Git, your computer may ask you to install “Command Line Developer Tools.” Click “install” and wait for the installation to finish. This gives your computer access to the git command needed to clone the course repository.
+- At this point, some of you may be all set up. Hooray! You can test if you’re set up by opening Week 1, opening file 1_1_setup.ipynb and running its code.
+- If you can’t run 1_1_setup.ipynb, go back to the Terminal. Type this line of text:
 
 ```bash
-
 cd DIGHUM101-2026
-
 ```
 
-    - Then hit enter and then type this line of text:
+- Then hit enter and then type this line of text:
     
 ```bash
-
 conda env create -f environment.yml
-
 ```
  
-    - Then hit enter. This will tell Anaconda to build your Python environment based on the directions in the environment.yml file (part of the course download).
-    - Once downloaded, type 
+- Then hit enter. This will tell Anaconda to build your Python environment based on the directions in the environment.yml file (part of the course download).
+- Once downloaded, type 
 
 ```bash
-
 conda activate dighum101
-
 ```
 
-    in the Terminal. Then test if you’re all set up with 1_1_setup.ipynb. 
+in the Terminal. Then test if you’re all set up with 1_1_setup.ipynb. 
 
 A final note on this setup process: if you’re following along this way, you can easily download the latest course materials by simply typing: 
 
 ```bash
-
 git pull
-
 ```
 
 into the Terminal. This will download any new stuff as we move through the course.
