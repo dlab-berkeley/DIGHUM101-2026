@@ -199,6 +199,7 @@ The Final Video Reflection is worth 10% of your overall grade.
 
 Parts of these materials were created by Evan Muzzall, 2018-2021, Brooks Jessup, 2021, Tom van Nuenen, 2022, Prashant Sharma 2023-2024, Merve Tekgurler 2025.
 
+- https://github.com/dlab-berkeley/DIGHUM101-2025
 - https://github.com/dlab-berkeley/DIGHUM101-2024
 - https://github.com/dlab-berkeley/DIGHUM101-2023
 - https://github.com/dlab-berkeley/DIGHUM101-2022
