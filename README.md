@@ -158,55 +158,30 @@ The Final Video Reflection is worth 10% of your overall grade.
 ## Schedule
 
 | Week | Date | Topics |
-
 |------|------|---------|
-
 | 1 | May 25 | NO CLASS – Memorial Day |
-
 | 1 | May 26 | Syllabus, major assignments, setup, getting started |
-
 | 1 | May 27 | Vocabulary, data types & structures, reading errors, libraries |
-
 | 1 | May 28 | Pandas intro, Project workday (group assignments, brainstorming topics) |
-
 | 2 | June 1 | Functions, conditionals, iterations |
-
 | 2 | June 2 | Pandas overview |
-
 | 2 | June 3 | Text analysis, regular expressions, preprocessing, tokenization, word frequency analysis |
-
 | 2 | June 4 | Project workday: choosing methods, identifying datasets |
-
 | 3 | June 8 | Text analysis continued, n-grams, pos-tagging, TF-IDF |
-
 | 3 | June 9 | Data visualization |
-
 | 3 | June 10 | Web scraping, APIs |
-
 | 3 | June 11 | Project workday: group project collaboration |
-
 | 4 | June 15 | Web scraping, APIs continued |
-
 | 4 | June 16 | Network Analysis, Geospatial data |
-
 | 4 | June 17 | Machine learning intro, topic modelling, text classification |
-
 | 4 | June 18 | Project workday: individual project time |
-
 | 5 | June 22 | Machine learning continued, sentiment analysis, NER, word embeddings |
-
 | 5 | June 23 | Machine learning continued, Transformers, BERT |
-
 | 5 | June 24 | Transformers, LLMs, coding with LLMs |
-
 | 5 | June 25 | Project workday: group project collaboration, individual project time |
-
 | 6 | June 29 | Asynchronous – individual project showcase |
-
 | 6 | June 30 | Asynchronous – individual project showcase feedback |
-
 | 6 | July 1 | Group presentations |
-
 | 6 | July 2 | Group presentations |
 
 ## Assignment Due Dates
