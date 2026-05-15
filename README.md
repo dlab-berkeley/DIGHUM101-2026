@@ -1,5 +1,7 @@
 # DIGHUM 101-2026
 
+![Berkeley DH logo](https://github.com/dlab-berkeley/DIGHUM101-2026/blob/main/img/dhlogo.png)
+
 Course Catalog: [https://classes.berkeley.edu/content/2026-summer-dighum-101-001-lec-001](https://classes.berkeley.edu/content/2026-summer-dighum-101-001-lec-001)
 
 Offered Through: [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
