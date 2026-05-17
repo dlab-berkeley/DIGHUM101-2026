@@ -33,7 +33,22 @@ At the end of the course, we will have in-class group presentations. These prese
 
 __The due date is Wednesday, July 1st__ at 1pm. The group presentation is worth __10% of your overall grade.__ Group presentations will be viewed and graded in class on the last two days of the course.
 
-
 ## Resources
 
-Coming soon!
+The first step in the group project is choosing a research method in DH your group would like to survey. There are numerous options here. Any DH method that is often implemented using Python is a viable choice.
+
+I would consider methods your group genuinely finds intriguing. Are you interested in natural language processing (NLP) methods––things like word frequency analysis, topic modeling, Named Entity Recognition (NER)? Are you interested in data visualization? Network analysis? Geospatial analysis and mapping? Are you interested in machine learning? Text classification? Sentiment analysis? There are tons of methods to choose from––many of which we'll be practicing in class.
+
+Once your group has chosen a method, you'll need to find scholarly DH articles or projects that apply the method. There are many, many options. Here are some journals and conferences to help you get started:
+
+- [Digital Humanities Quarterly (DHQ)](https://dhq.digitalhumanities.org/)
+- [Digital Studies / Le champ numérique](https://www.digitalstudies.org/)
+- [DSH: Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
+- [Humanités numériques](https://journals.openedition.org/revuehn/)
+- [Journal of Digital Archives and Digital Humanities](https://tadh.org.tw/en/jodadh/)
+- [Reviews in DH](https://reviewsindh.pubpub.org/)
+- [Proceedings of the Global DH Symposium](https://msuglobaldh.hcommons.org/)
+- [Journal of Cultural Analytics](https://culturalanalytics.org/)
+- [Debates in the Digital Humanities](https://dhdebates.gc.cuny.edu/)
+- [International Journal of Digital Humanities](https://link.springer.com/journal/42803)
+- [Index of Digital Humanities Conferences](https://dh-abstracts.library.virginia.edu/)
