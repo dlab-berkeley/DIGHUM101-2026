@@ -81,6 +81,7 @@ git clone https://github.com/dlab-berkeley/DIGHUM101-2026.git
 
 - Then press enter. This should download a folder called DIGHUM101-2026 onto your computer. __In VS Code, open that folder before continuing.__
     - Note for Mac users: the first time you use Git, your computer may ask you to install “Command Line Developer Tools.” Click “install” and wait for the installation to finish. This gives your computer access to the git command needed to clone the course repository.
+    - Note for PC users: if you get a response that says something like "The term 'git' is not recognized...", you need to download Git on your laptop, too. Go to [Git Microsoft download](https://git-scm.com/install/windows) and download Git for Windows. If prompted during installation, make sure you select any options that read something like this: "Git from the command line and also from 3rd-party software". Then try the "Git clone" line again.
 - At this point, some of you may be all set up. Hooray! You can test if you’re set up by opening Week 1, opening file 1_1_setup.ipynb and running its code.
 - If you can’t run 1_1_setup.ipynb, go back to the Terminal. Type this line of text:
 
