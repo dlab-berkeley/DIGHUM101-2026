@@ -15,7 +15,7 @@ The topic statement is a 1-page, single-spaced document that describes the follo
 
 __The due date is Friday, June 12th__ at 11:59pm. It is worth __10% of your overall grade.__ You must submit your topic statement as a pdf via BCourse.
 
-Short Paper
+## Short Paper
 
 The short paper is a roughly 5-page, single-spaced document that covers the following:
 
